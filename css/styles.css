@@ -1,0 +1,26 @@
+.body {
+  background-color: #c6e1ff;
+}
+
+.general-title {
+  text-align: center;
+  font-size: 50px;
+}
+
+div {
+  margin: 50px;
+  padding: 22px;
+  border: 3px solid #14688c;
+  border-radius: 30px;
+  background-color: #b3cfff;
+}
+
+h1 {
+  font-size: 30px;
+  color: #001f2c;
+}
+
+p {
+  font-size: 26px;
+  color: #001f2c;
+}
